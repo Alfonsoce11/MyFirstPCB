@@ -5,9 +5,9 @@ My first PCB I made for hackclub's solder YSWS.
 <img width="606" alt="Screenshot 2025-05-22 at 8 05 13 PM" src="https://github.com/user-attachments/assets/3187e2a9-ab2c-4cfc-a8ac-cddf0680c5b4" />
 
 ## PCB
-<img width="680" alt="Screenshot 2025-05-22 at 8 03 30 PM" src="https://github.com/user-attachments/assets/6f32eca7-e46b-44a2-8675-0480333ae999" />
+<img width="706" alt="Screenshot 2025-05-27 at 5 19 36 PM" src="https://github.com/user-attachments/assets/049272fd-6ba4-4527-b505-838c2635f8ee" />
 
-<img width="719" alt="Screenshot 2025-05-22 at 8 02 37 PM" src="https://github.com/user-attachments/assets/f6d7b042-126a-4b74-ae8f-c4436bd30b1e" />
+<img width="646" alt="Screenshot 2025-05-27 at 5 20 08 PM" src="https://github.com/user-attachments/assets/6b16dc17-c281-41a8-91fd-960773a9c956" />
 
 ## Materials
 * 2 LEDs
